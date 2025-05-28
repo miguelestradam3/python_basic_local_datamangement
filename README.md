@@ -24,4 +24,4 @@ Consult the documentation folder for more information: [Documentation](docs/)
 
 ## Author
 
-Miguel Estrada: [miguelestradam36@gmail.com](mailto:miguelestradam36@gmail.com)
+Miguel Estrada: [miguelestradam36@gmail.com](mailto:miguelestradam36@gmail.com)"# python_projects" 
