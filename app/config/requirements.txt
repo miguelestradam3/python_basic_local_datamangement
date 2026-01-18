@@ -4,3 +4,5 @@ openpyxl
 pytest
 tox
 pysqlite3
+requests
+flask

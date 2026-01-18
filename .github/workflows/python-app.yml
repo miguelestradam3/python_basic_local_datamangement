@@ -29,6 +29,4 @@ jobs:
         pip install -r app/config/requirements.txt
        
     - name: Run tests with pytest
-      run: |
-        pip install pytest
-        pytest app/tests/
+      run: pytest app/tests/
