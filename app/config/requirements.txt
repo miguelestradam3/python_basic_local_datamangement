@@ -6,3 +6,4 @@ tox
 pysqlite3
 requests
 flask
+boto3
