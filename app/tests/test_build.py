@@ -20,7 +20,7 @@ def test_dependencies():
     for module in yaml_config["python"]["global"]["modules"]["standard"]:
         assert __import__(module['import'])
 
-    for module in yaml_config["python"]["services"]["modules"]['api-connection']:
+    for module in yaml_config["python"]["services"]["modules"]:
         assert __import__(module['import'])
 
     for module in yaml_config["python"]["global"]["modules"]["test"]:
